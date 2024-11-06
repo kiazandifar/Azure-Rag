@@ -1,8 +1,6 @@
 <<<<<<< HEAD
 # Azure-Rag
-Chat with GPT assistance
-=======
-# Document-Based Conversational AI
+# Azure-Rag, Document-Based chat with Conversational AI
 
 ## Overview
 
@@ -87,5 +85,3 @@ The application uses Python's built-in `logging` module for logging debug and er
 
 ## License
 This project is licensed under the MIT License.
-
->>>>>>> a6fcf6d (Initial commit)
